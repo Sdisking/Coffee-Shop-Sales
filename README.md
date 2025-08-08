@@ -82,3 +82,4 @@ Visuals: Bar Charts, Pie Charts, Line Graphs, Cards, Slicers
 
 # 📌 Outcome:
 This dashboard not only provides real-time insights into sales and customer behavior but also empowers decision-makers to optimize store operations, plan staffing efficiently, and focus on high-margin products.
+(https://github.com/Sdisking/Coffee-Shop-Sales/blob/main/coffee.png)
