@@ -1,5 +1,8 @@
 # Coffee-Shop-Sales-Analysis
 
+# Dashboard ScreenShot
+https://github.com/Sdisking/Coffee-Shop-Sales/blob/main/coffee.png
+
 # 📊 Project Overview:
 In this project, I developed an interactive Coffee Shop Sales Dashboard using MS EXCEL to analyze daily operations, customer behavior, and product performance across three store locations. This helped uncover trends in sales performance, footfall, and product preferences, offering actionable insights for business decision-making.
 
@@ -82,4 +85,3 @@ Visuals: Bar Charts, Pie Charts, Line Graphs, Cards, Slicers
 
 # 📌 Outcome:
 This dashboard not only provides real-time insights into sales and customer behavior but also empowers decision-makers to optimize store operations, plan staffing efficiently, and focus on high-margin products.
-(https://github.com/Sdisking/Coffee-Shop-Sales/blob/main/coffee.png)
